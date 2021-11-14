@@ -1,1 +1,1 @@
-# Flipkart Clone Project:
+Flipkart Clone Project
